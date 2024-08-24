@@ -1,0 +1,25 @@
+Briefly explain what GitHub is and how it facilitates collaboration and version control also name some 
+alternatives to GitHub?
+Solution:-
+- GitHub allows developers to change, adapt and improve software from its public repositories for free as part of various paid plans. 
+- Each public and private repository contains all a project's files, as well as each file's revision history. Repositories can have multiple collaborators and owners.
+
+GitHub facilitates collaboration and version control in the following ways:-
+i) Version control: 
+ GitHub uses Git, a distributed version control system, to track changes to code. This allows developers to see who made what changes and when, and to revert to previous versions of the code if necessary.
+
+ii) Branches and pull requests: 
+GitHub makes it easy for developers to create and manage branches of their code. This allows developers to work on new features or fix bugs without affecting the main codebase. Once a developer is ready to merge their changes back into the main codebase, they can create a pull request.This allows other developers to review the changes and provide feedback before they are merged.
+
+iii) Issues and tasks:
+ GitHub provides a way for developers to track issues and tasks related to their code. This helps teams to stay organized and to prioritize their work.
+
+iv) Code reviews: 
+GitHub makes it easy for developers to review each other's code. This helps to improve the 
+quality of the code and to identify potential bugs.
+
+Some of the platforms that provide the same functionality similar to GitHub can be -
+ i) GitLa
+ ii) BitBucke
+ iii) Source Forg
+ iv) Launchpad
